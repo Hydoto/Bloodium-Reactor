@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Bloodium" path="Data/ContentPackages/Bloodium.xml" corepackage="false" gameversion="0.9.6.0">
+  <Item file="Mods/Bloodium/Items/Reactor/Vitalis.xml" />
+</contentpackage>
